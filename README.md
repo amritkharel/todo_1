@@ -1,17 +1,17 @@
-# todo
 
-A new Flutter project.
+# Todo
 
-## Getting Started
+Features:
+-
+- Simple todo app built with flutter where user can login using username and password or signin with google.
+- Tasks can be created, edited and deleted.
+Additional features:
+- Deadline and reminder can be set to get notification on your desired reminder date and time.
 
-This project is a starting point for a Flutter application.
+First run:
+- 
+- Clone the repo.
+- run command: flutter pub get
+-  set up your own firebase auth and firestore.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# todo_1
